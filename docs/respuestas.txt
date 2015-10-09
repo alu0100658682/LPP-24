@@ -2,4 +2,12 @@ Trabajo en equipo con git
 
 
 
-"respuesta"
+52.Los lenguajes compilados necesitan de un programa especial que lea el código fuente y cree un archivo objeto que es leído por el ordenador. El ordenador no lee el código fuente, sino qie lee el archivo obj.
+ 
+Los lenguajes interpretados necesitan de un programa que traduzca en directo el código fuente escrito a instrucciones de la plataforma en la que se ejecutan.
+
+
+
+
+
+
