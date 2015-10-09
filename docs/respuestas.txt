@@ -6,7 +6,7 @@ Trabajo en equipo con git
  
 Los lenguajes interpretados necesitan de un programa que traduzca en directo el código fuente escrito a instrucciones de la plataforma en la que se ejecutan.
 
-
+59. Bourne shell es un programa informático cuya función consiste en interpretar órdemes.
 
 
 
